@@ -23,7 +23,7 @@ Clone the repository:
 ## Install the required packages:  
 ```pip install -r requirements.txt```
 
-## Run the application (must run inside an IDE):  
+## Run the application:  
 ```streamlit run streamlit.py```  
 
 ## License  
